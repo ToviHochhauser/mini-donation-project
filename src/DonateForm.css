@@ -1,0 +1,13 @@
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    direction: rtl;
+   margin-top: 100px;
+}
+
+#dedication {
+    height: 100px;
+    width: 200px;
+    font-size: 14pt; 
+}

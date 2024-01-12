@@ -1,0 +1,20 @@
+body{
+    direction: rtl;
+}
+.bar-light{
+     margin-bottom: 100px;
+}
+.bar-dark.MuiPaper-root{
+    background-color: purple;
+    color: white;
+}
+.MuiButton-root.change-theme-button {
+    color: black;
+    font-family: fantasy;
+    font-size: 15px;
+}
+.user-alert {
+    position: absolute;
+    width: 50%;
+    right: 25%;
+}
